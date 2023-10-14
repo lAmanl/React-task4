@@ -1,0 +1,27 @@
+:root {
+  line-height: 2;
+  color: white;
+  background-color: #201e1e;
+}
+
+body{
+  text-align: center;
+}
+
+h1{
+  font-size: 2.2em;
+}
+
+.container table{
+  border-radius: 5px;
+  border: white 1px solid;
+  margin: auto;
+}
+
+.container table th{
+  border-bottom: whitesmoke 1px solid;
+}
+
+.container table td{
+  text-align: left;
+}
